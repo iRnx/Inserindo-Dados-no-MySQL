@@ -7,7 +7,7 @@ try:
         host='localhost',
         database='python',
         user='root',
-        password='root')
+        password='SUA SENHA')
     inserir_produtos = """INSERT INTO produtos
                           (idproduto, nomeproduto, preco, quantidade)
                           VALUES
